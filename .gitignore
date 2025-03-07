@@ -1,0 +1,5 @@
+# Ignorar arquivos 
+/build/
+/build/classes/
+*.class
+/nbproject/private/
